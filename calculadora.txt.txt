@@ -1,0 +1,3 @@
+declarações de variáveis - ok
+leitura de entradas do programa - ok
+criação função soma - ok
