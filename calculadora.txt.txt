@@ -1,3 +1,4 @@
 declarações de variáveis
 leitura de entradas do programa
 criação função soma
+criação função subtração
