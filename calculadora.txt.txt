@@ -1,4 +1,4 @@
-declarações de variáveis
-leitura de entradas do programa
-criação função soma
-criação função subtração
+declarações de variáveis - ok
+leitura de entradas do programa - ok
+criação função soma - ok
+criação função subtração - ok
